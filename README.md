@@ -12,6 +12,7 @@
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left"/>][twitter]
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left"/>][linkedin]
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left"/>][gmail]
+ 
 <br />
 
  You can mail to: yagizsahin141@outlook.com
