@@ -1,4 +1,4 @@
-<p><img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="350px"</p>
+<p><img src="https://media.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif" width="150px"</p>
 
 ### I'm Yagiz. :wave:
 
