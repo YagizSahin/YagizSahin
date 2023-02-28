@@ -11,7 +11,7 @@
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" align="left"/>][instagram]
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left"/>][twitter]
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left"/>][linkedin]
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left"/>][gmail]
+<a href="mailto:yagizsahin141@outlook.com" target="_blank"><img width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left"/></a>
  
 <br />
 
