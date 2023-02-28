@@ -15,18 +15,18 @@
  
 <br />
 
- You can mail to: yagizsahin141@outlook.com
-
 <br />
 
 ## Tech I use
 
-<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="25" height="25" align="left"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="25" height="25" align="left"/>
-<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="25" height="25" align="left"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25" align="left"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width=25 height="25"align="left"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="25" height="25"align="left"/>
+<p>
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" width="75">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" width="75">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" width="75">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" width="75">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" width="75">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" width="75">
+</p>
 
 <br />
 <br /> 
@@ -39,8 +39,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagizSahin">
 </details> 
 
+<p>
+  
+  ![](https://komarev.com/ghpvc/?username=YagizSahin&color=red&style=for-the-badge&label=Visit_Counter)
+</p>
+
 
 [instagram]:https://www.instagram.com/yagiz.sahinn/
 [twitter]:https://twitter.com/yagishn
 [linkedin]:https://www.linkedin.com/in/yağız-şahin-38b3b8225/
-[gmail]:yagizsahin141@outlook.com
