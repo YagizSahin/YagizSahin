@@ -11,7 +11,7 @@
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" align="left"/>][instagram]
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left"/>][twitter]
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left"/>][linkedin]
-<a href="mailto:yagizsahin141@outlook.com" target="_blank">[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left"/>][gmail]</a>
+<a href="mailto:yagizsahin141@outlook.com" target="_blank">![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red)</a>
 <br />
 
  You can mail to: yagizsahin141@outlook.com
