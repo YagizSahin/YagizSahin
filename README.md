@@ -15,8 +15,6 @@
  
 <br />
 
- You can mail to: yagizsahin141@outlook.com
-
 <br />
 
 ## Tech I use
