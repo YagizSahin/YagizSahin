@@ -6,9 +6,8 @@
 
 <br />
  
- <li>:school:I'm a second class student at Gazi University</li>
- <li>:mag_right:I have curiosity on Backend technologies and Blockchain</li>
- <li>:four_leaf_clover: I'm currently learning node.js</li>
+ <li>:school:I'm a fourth class student at Gazi University</li>
+ <li>:mag_right:I have curiosity on Backend technologies</li>
  <li>I’m available for freelancing & job opportunities</li>
 
 ## Reach out to me
