@@ -6,8 +6,8 @@
 
 <br />
  
- <li>:school:I'm a fourth class student at Gazi University</li>
- <li>:mag_right:I have curiosity on Backend technologies</li>
+ <li>:school:I am a 4th year student at Gazi University, Department of Computer Engineering</li>
+ <li>:mag_right:I want to work in backend development</li>
  <li>I’m available for freelancing & job opportunities</li>
 
 ## Reach out to me
@@ -20,7 +20,7 @@
 
 <br />
 
-## Tech I use
+## Technologies that I use
 
 <p>
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" width="75">
@@ -29,6 +29,13 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" width="75">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" width="75">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" width="75">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/spring.svg" width="75">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" width="75">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/redis.svg" width="75">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" width="75">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/docker.svg" width="75">
+
+ 
 </p>
 
 <br />
@@ -42,12 +49,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagizSahin">
 </details> 
 
-<p>
-  
-  ![](https://komarev.com/ghpvc/?username=YagizSahin&color=red&style=for-the-badge&label=Visit_Counter)
-</p>
 
 
-[instagram]:https://www.instagram.com/yagiz.sahinn/
-[twitter]:https://twitter.com/yagishn
+
 [linkedin]:https://www.linkedin.com/in/yağız-şahin-38b3b8225/
