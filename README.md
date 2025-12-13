@@ -2,12 +2,11 @@
 
 ### I'm Yagiz. :wave:
 
-## Jr Backend Developer | Student for Gazi CENG
+## Jr Software Engineer
 
 <br />
  
- <li>:school:I am a 4th year student at Gazi University, Department of Computer Engineering</li>
- <li>:mag_right:I want to work in backend development</li>
+ <li>:school:I have recently graduated from the Computer Engineering Department at Gazi University.</li>
  <li>I’m available for freelancing & job opportunities</li>
 
 ## Reach out to me
